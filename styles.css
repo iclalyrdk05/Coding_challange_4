@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(''), #FF8C00;
+    background: url('https://as1.ftcdn.net/v2/jpg/02/44/56/70/1000_F_244567019_SRb5i27LHFzblS6dpOhDUu8nsdRgmgh5.jpg') no-repeat center center/cover;
     background-size: cover;
 }
 
