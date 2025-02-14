@@ -4,7 +4,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     background-color:khaki;
+=======
+    background: url('https://as1.ftcdn.net/v2/jpg/02/44/56/70/1000_F_244567019_SRb5i27LHFzblS6dpOhDUu8nsdRgmgh5.jpg') no-repeat center center/cover;
+>>>>>>> bc562d7164ecba4c2944e84aa4b373b9ebf9ac6b
     background-size: cover;
 }
 
