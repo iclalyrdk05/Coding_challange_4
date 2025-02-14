@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(''), #FF8C00;
+    background-color:khaki;
     background-size: cover;
 }
 
@@ -12,16 +12,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 80%;
     height: 100vh;
 }
 
 .clock {
-    font-family: Arial, sans-serif;
+    font-family: "Darumadrop One", serif;
     font-size: 6rem;
-    color: white;
+    color: rgb(84, 163, 236);
     background: rgba(0, 0, 0, 0.7);
-    padding: 40px 80px;
+    padding: 20px 80px;
     border-radius: 20px;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
     text-align: center;
